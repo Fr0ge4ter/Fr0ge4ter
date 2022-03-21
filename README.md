@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fr0ge4ter
+- 👀 I’m interested in Blockchain dev
+- 🌱 I’m currently learning Solidity, I hope more is to come
+- 💞️ I’m looking to collaborate on Opensource projects for a start
+- 📫 you can reach me at Fr0ge4ter@gmail.com
